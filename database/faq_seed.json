@@ -1,0 +1,188 @@
+{
+  "schema_version": 1,
+  "locale": "pt-BR",
+  "source_file": "faq_source.txt",
+  "review_status": "pending_business_review",
+  "records": [
+    {
+      "id": 1,
+      "source_number": 1,
+      "question": "COMO FUNCIONA O IPHONE NO BOLETO?",
+      "answer": "📱 Nossa modalidade funciona por meio de um contrato de aluguel com opção de compra ao final.\n\nVocê realiza uma análise cadastral e, após a aprovação, escolhe seu iPhone.\n\n✅ Sem cartão de crédito\n✅ Sem consulta ao SPC\n✅ Pagamento por boleto\n✅ Possibilidade de ficar com o aparelho ao final do contrato\n\n📍 RC Store — Colinas Shopping.",
+      "locale": "pt-BR",
+      "review_status": "pending_business_review",
+      "source_file": "faq_source.txt"
+    },
+    {
+      "id": 2,
+      "source_number": 2,
+      "question": "COMO FAÇO A ANÁLISE?",
+      "answer": "📱 Vamos dar o primeiro passo para conquistar seu iPhone? 😊\n\nAcesse o link:\n\nhttps://ilugcell.com.br/\n\n💰 Uma informação importante: todos os modelos possuem uma caução inicial, que varia de R$ 299 a R$ 1.400, dependendo do iPhone escolhido.\n\nSe você ainda não tiver esse valor disponível, não tem problema! Pode se organizar tranquilamente e entrar em contato conosco em outro momento.\n\nVocê já teria um valor disponível para a caução? 😊",
+      "locale": "pt-BR",
+      "review_status": "pending_business_review",
+      "source_file": "faq_source.txt"
+    },
+    {
+      "id": 3,
+      "source_number": 3,
+      "question": "QUEM TEM NOME NEGATIVADO PODE FAZER?",
+      "answer": "Sim! 😊 Mesmo com restrições no nome, você pode realizar a análise.\n\nNossa modalidade não realiza consulta ao SPC.\n\nPorém, todos os cadastros passam por uma análise interna e a aprovação depende do resultado do sistema.",
+      "locale": "pt-BR",
+      "review_status": "pending_business_review",
+      "source_file": "faq_source.txt"
+    },
+    {
+      "id": 4,
+      "source_number": 4,
+      "question": "PRECISA DAR ENTRADA?",
+      "answer": "Sim! 😊 Todos os modelos possuem um valor de caução inicial.\n\n💰 Os valores variam de R$ 299 a R$ 1.400, dependendo do modelo escolhido.\n\nEssa caução poderá ser utilizada como entrada para a compra do aparelho ou restituída ao final da locação, conforme as condições do contrato.",
+      "locale": "pt-BR",
+      "review_status": "pending_business_review",
+      "source_file": "faq_source.txt"
+    },
+    {
+      "id": 5,
+      "source_number": 5,
+      "question": "QUAIS IPHONES ESTÃO DISPONÍVEIS?",
+      "answer": "📱 Trabalhamos com modelos do iPhone 12 até o iPhone 15 Pro, além do iPhone 16 convencional.\n\nOs modelos estão sujeitos à disponibilidade.\n\nOs valores de caução e mensalidades variam conforme o aparelho escolhido.",
+      "locale": "pt-BR",
+      "review_status": "pending_business_review",
+      "source_file": "faq_source.txt"
+    },
+    {
+      "id": 6,
+      "source_number": 6,
+      "question": "POSSO FICAR COM O IPHONE NO FINAL?",
+      "answer": "Sim! 😊\n\nNosso contrato é de aluguel com opção de compra.\n\nAo final, você poderá utilizar o valor da caução como entrada para ficar definitivamente com o aparelho, conforme as condições contratuais.",
+      "locale": "pt-BR",
+      "review_status": "pending_business_review",
+      "source_file": "faq_source.txt"
+    },
+    {
+      "id": 7,
+      "source_number": 7,
+      "question": "POSSO DEVOLVER O IPHONE?",
+      "answer": "Sim! 😊\n\nAo final do contrato, você pode optar por devolver o aparelho.\n\nNesse caso, poderá receber sua caução de volta, conforme as condições estabelecidas no contrato.\n\n⚠️ As mensalidades pagas durante o aluguel não são devolvidas.",
+      "locale": "pt-BR",
+      "review_status": "pending_business_review",
+      "source_file": "faq_source.txt"
+    },
+    {
+      "id": 8,
+      "source_number": 8,
+      "question": "SE EU DEVOLVER, RECEBO TODAS AS PARCELAS?",
+      "answer": "Não. As mensalidades correspondem ao período de aluguel e utilização do aparelho.\n\nPor isso, não são reembolsadas.\n\nSomente a caução poderá ser restituída, conforme as condições contratuais.",
+      "locale": "pt-BR",
+      "review_status": "pending_business_review",
+      "source_file": "faq_source.txt"
+    },
+    {
+      "id": 9,
+      "source_number": 9,
+      "question": "PRECISA DE CARTÃO DE CRÉDITO?",
+      "answer": "Não! 😊\n\nNossa modalidade funciona com pagamento por boleto bancário.\n\nVocê não precisa ter cartão de crédito para realizar a contratação.",
+      "locale": "pt-BR",
+      "review_status": "pending_business_review",
+      "source_file": "faq_source.txt"
+    },
+    {
+      "id": 10,
+      "source_number": 10,
+      "question": "O QUE ACONTECE SE ATRASAR O BOLETO?",
+      "answer": "Caso ocorra atraso superior a 5 dias, nossa equipe entra em contato para entender a situação.\n\nSe não houver retorno ou regularização, poderão ser aplicadas restrições a determinados aplicativos, conforme o contrato.\n\nO acesso às ligações e aos aplicativos bancários permanece disponível.",
+      "locale": "pt-BR",
+      "review_status": "pending_business_review",
+      "source_file": "faq_source.txt"
+    },
+    {
+      "id": 11,
+      "source_number": 11,
+      "question": "MINHA ANÁLISE FOI APROVADA. E AGORA?",
+      "answer": "🎉 Parabéns! Sua análise foi aprovada!\n\nAgora você pode comparecer à nossa loja para conhecer os modelos e as condições disponíveis para seu cadastro.\n\n⚠️ Traga um documento original com foto.\n\n📍 RC Store — Colinas Shopping, São José dos Campos.",
+      "locale": "pt-BR",
+      "review_status": "pending_business_review",
+      "source_file": "faq_source.txt"
+    },
+    {
+      "id": 12,
+      "source_number": 12,
+      "question": "MINHA ANÁLISE NÃO FOI APROVADA.",
+      "answer": "Infelizmente, neste momento, sua análise não foi aprovada.\n\nA decisão é realizada por um sistema interno, e não temos acesso aos motivos específicos.\n\nVocê poderá realizar uma nova tentativa após 90 dias.\n\nAgradecemos seu interesse! 😊",
+      "locale": "pt-BR",
+      "review_status": "pending_business_review",
+      "source_file": "faq_source.txt"
+    },
+    {
+      "id": 13,
+      "source_number": 13,
+      "question": "POSSO FAZER NO CPF DE OUTRA PESSOA?",
+      "answer": "Sim, desde que essa pessoa seja a verdadeira titular do contrato.\n\nEla deverá realizar a análise com seus próprios dados e comparecer pessoalmente à loja, caso seja aprovada.\n\nO contrato e as responsabilidades ficarão em nome dela.",
+      "locale": "pt-BR",
+      "review_status": "pending_business_review",
+      "source_file": "faq_source.txt"
+    },
+    {
+      "id": 14,
+      "source_number": 14,
+      "question": "POSSO RETIRAR O IPHONE NO MESMO DIA?",
+      "answer": "A retirada depende da aprovação, da disponibilidade do modelo, da conferência da documentação, da assinatura do contrato e da confirmação do pagamento inicial.\n\nNossa equipe orientará você durante todo o processo! 😊",
+      "locale": "pt-BR",
+      "review_status": "pending_business_review",
+      "source_file": "faq_source.txt"
+    },
+    {
+      "id": 15,
+      "source_number": 15,
+      "question": "ONDE FICA A LOJA?",
+      "answer": "📍 RC Store — Colinas Shopping\n\nSão José dos Campos — SP\n\nEstamos no piso térreo, em frente à loja Hope.\n\n🕙 Atendimento das 10h às 22h, conforme o funcionamento do shopping.\n\nEsperamos por você! 😊",
+      "locale": "pt-BR",
+      "review_status": "pending_business_review",
+      "source_file": "faq_source.txt"
+    },
+    {
+      "id": 16,
+      "source_number": 16,
+      "question": "É CONFIÁVEL?",
+      "answer": "Entendemos sua preocupação! 😊\n\nA RC Store possui loja física no Colinas Shopping, em São José dos Campos.\n\nVocê pode comparecer pessoalmente, conhecer nossa equipe e esclarecer todas as dúvidas antes de realizar a contratação.\n\nTodas as condições são apresentadas antes da assinatura do contrato.",
+      "locale": "pt-BR",
+      "review_status": "pending_business_review",
+      "source_file": "faq_source.txt"
+    },
+    {
+      "id": 17,
+      "source_number": 17,
+      "question": "POSSO FAZER TUDO PELA INTERNET?",
+      "answer": "A primeira etapa, que é a análise cadastral, pode ser realizada pela internet.\n\n🔗 https://ilugcell.com.br/\n\nApós a aprovação, você deverá comparecer pessoalmente à loja para conhecer as condições, escolher seu aparelho e concluir a contratação.",
+      "locale": "pt-BR",
+      "review_status": "pending_business_review",
+      "source_file": "faq_source.txt"
+    },
+    {
+      "id": 18,
+      "source_number": 18,
+      "question": "NÃO TENHO DINHEIRO PARA A CAUÇÃO AGORA.",
+      "answer": "Não tem problema nenhum! 😊\n\nEntendemos que cada pessoa tem seu momento e suas prioridades.\n\nVocê pode se organizar com tranquilidade e entrar em contato conosco quando tiver o valor disponível.\n\n💰 Nossas cauções variam de R$ 299 a R$ 1.400, conforme o modelo escolhido.\n\nSerá um prazer atender você quando estiver pronto! 💙",
+      "locale": "pt-BR",
+      "review_status": "pending_business_review",
+      "source_file": "faq_source.txt"
+    },
+    {
+      "id": 19,
+      "source_number": 19,
+      "question": "O IPHONE FICA NO MEU NOME?",
+      "answer": "Durante o contrato, o aparelho permanece vinculado à empresa responsável pela locação.\n\nVocê poderá utilizá-lo conforme as condições contratadas.\n\nAo final, se optar pela compra e cumprir as condições previstas, poderá ficar definitivamente com o aparelho.",
+      "locale": "pt-BR",
+      "review_status": "pending_business_review",
+      "source_file": "faq_source.txt"
+    },
+    {
+      "id": 20,
+      "source_number": 20,
+      "question": "PRECISO IR ATÉ A LOJA PARA SABER OS VALORES?",
+      "answer": "Sim! 😊\n\nApós a aprovação da análise, você poderá comparecer à loja para conhecer os modelos disponíveis e as condições de caução e mensalidades.\n\n📍 RC Store — Colinas Shopping.\n\nSerá um prazer apresentar as opções para você!",
+      "locale": "pt-BR",
+      "review_status": "pending_business_review",
+      "source_file": "faq_source.txt"
+    }
+  ]
+}
