@@ -39,6 +39,12 @@ O projeto está preparado para análise do técnico responsável pelo outro sist
 
 Este projeto é uma primeira versão local para demonstração/validação, não substitui um PDV fiscal homologado.
 
+## Dados de operação (repositório privado)
+
+Os registros reais da loja — catálogo, custo, preço e estoque — **não** ficam neste repositório. A exportação de produção de 2026-10-27 (19 SKUs, chave `vertice_products`) está no repositório **privado** `reis-cash-dados`, junto com o contrato de dados (`GUIA_EXPORTACAO_PRODUTOS.md`), a conferência de integridade e a mensagem de importação para o dev.
+
+Nenhum dado real de operação entra neste repositório público, nem no histórico de commits.
+
 ## Licença
 
 MIT — veja [LICENSE](LICENSE).
